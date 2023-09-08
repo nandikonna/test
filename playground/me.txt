@@ -1,0 +1,5 @@
+{{#user}}
+name: Rushikanta
+Skills: HTML,JENKINS,DOCKER,TERRAFORM,K8S,AWS,SHELL SCRIPTING & GITHUB
+Email: k.rushikanta@gmail.com
+{{/user}}
